@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
-<a href="https://twitter.com/NoureldinNafea" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="NourNafea" height="30" width="30" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/nour-nafea-572234173/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="NourNafea" height="30" width="30" /></a>&nbsp;
+<a href="https://twitter.com/MahAbdulah99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="NourNafea" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mahmoud-abdullah-723606204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="NourNafea" height="30" width="30" /></a>&nbsp;
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
@@ -9,9 +9,8 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a Software Engineer Based out of Cairo 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.js**, **.cs**, **.sql**, **.py**
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
-- 👯 We can connect to play some games of Chess ♟
+- 💻 I use daily **.py**, **.ipynb**, **.sql**.
+- 💬 Talk to me about football, python (both of these are not any kind of insect or animals), startups
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
@@ -27,12 +26,12 @@
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 
-![Nours's GitHub stats](https://github-readme-stats.vercel.app/api?username=NourNafea&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true)
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudAbdullah99&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourNafea&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbdullah99&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NourNafea&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MahmoudAbdullah99&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
